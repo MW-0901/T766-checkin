@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "50yCFvQq5kA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\T766-Checkin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danwi\\.nuget\\packages\\managednativewifi\\3.0.2\\managednativewifi.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "T766-Checkin/1.0.0": {
+        "dependencies": {
+          "ManagedNativeWifi": "3.0.2"
+        },
+        "runtime": {
+          "T766-Checkin.dll": {}
+        }
+      },
+      "ManagedNativeWifi/3.0.2": {
+        "runtime": {
+          "lib/net8.0/ManagedNativeWifi.dll": {
+            "assemblyVersion": "3.0.2.0",
+            "fileVersion": "3.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T766-Checkin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagedNativeWifi/3.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HgeZhoFiFBYcEkhs8yZdq26Ow8oZGG3uoCBEGw2HmjpCsMNGb3nWlN0vQZwCKVPy0NImaaYAzeCNMzqhuBkuWg==",
+      "path": "managednativewifi/3.0.2",
+      "hashPath": "managednativewifi.3.0.2.nupkg.sha512"
+    }
+  }
+}
