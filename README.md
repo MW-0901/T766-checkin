@@ -5,5 +5,5 @@
 - From here on out, all commands will be ran from the root of this repo
 - Run `dotnet publish -c Release -r win-x64 --self-contained true`
 - Run `start .\installer-output\inno-installer.iss`
-- Enter Ctrl + F9 to build the installer!
+- Enter Ctrl + F9 to build the installer (Or from the menu, Build -> Compile)
 - You'll find your installer inside installer-output
