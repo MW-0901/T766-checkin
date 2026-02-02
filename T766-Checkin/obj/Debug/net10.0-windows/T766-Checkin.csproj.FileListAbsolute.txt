@@ -26,3 +26,4 @@ C:\Users\danwi\source\repos\T766-Checkin\T766-Checkin\obj\Debug\net10.0-windows\
 C:\Users\danwi\source\repos\T766-Checkin\T766-Checkin\obj\Debug\net10.0-windows\App.baml
 C:\Users\danwi\source\repos\T766-Checkin\T766-Checkin\obj\Debug\net10.0-windows\Views\CheckinView.baml
 C:\Users\danwi\source\repos\T766-Checkin\T766-Checkin\obj\Debug\net10.0-windows\Views\CheckinView.g.cs
+C:\Users\danwi\source\repos\T766-Checkin\T766-Checkin\obj\Debug\net10.0-windows\T766-Checkin.sourcelink.json

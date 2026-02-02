@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\checkinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\checkinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\wificonnectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\wificonnectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\views\\checkinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\views\\checkinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\wificonnectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\wificonnectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\views\\wificonnectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\views\\wificonnectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|c:\\users\\danwi\\source\\repos\\t766-checkin\\t766-checkin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9546201C-9989-2D94-C2EA-318657050247}|T766-Checkin\\T766-Checkin.csproj|solutionrelative:t766-checkin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,74 +30,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\MainWindow.xaml",
               "RelativeDocumentMoniker": "T766-Checkin\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\MainWindow.xaml",
               "RelativeToolTip": "T766-Checkin\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-02T02:15:50.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T02:15:50.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CheckinView.xaml",
               "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\Views\\CheckinView.xaml",
               "RelativeDocumentMoniker": "T766-Checkin\\Views\\CheckinView.xaml",
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\Views\\CheckinView.xaml",
               "RelativeToolTip": "T766-Checkin\\Views\\CheckinView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T20:10:32.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T20:10:32.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CheckinView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\CheckinView.xaml.cs",
               "RelativeDocumentMoniker": "T766-Checkin\\CheckinView.xaml.cs",
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\CheckinView.xaml.cs",
               "RelativeToolTip": "T766-Checkin\\CheckinView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T20:11:21.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WifiConnectView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\WifiConnectView.xaml.cs",
               "RelativeDocumentMoniker": "T766-Checkin\\WifiConnectView.xaml.cs",
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\WifiConnectView.xaml.cs",
               "RelativeToolTip": "T766-Checkin\\WifiConnectView.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAmwIkBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T20:06:53.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T20:06:53.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "T766-Checkin\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\MainWindow.xaml.cs",
-              "RelativeToolTip": "T766-Checkin\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T20:10:13.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "WifiConnectView.xaml",
               "DocumentMoniker": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\Views\\WifiConnectView.xaml",
               "RelativeDocumentMoniker": "T766-Checkin\\Views\\WifiConnectView.xaml",

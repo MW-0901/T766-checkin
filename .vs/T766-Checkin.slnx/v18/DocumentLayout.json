@@ -41,8 +41,7 @@
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\MainWindow.xaml",
               "RelativeToolTip": "T766-Checkin\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-02T02:15:50.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T02:15:50.298Z"
             },
             {
               "$type": "Document",
@@ -53,8 +52,7 @@
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\Views\\CheckinView.xaml",
               "RelativeToolTip": "T766-Checkin\\Views\\CheckinView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T20:10:32.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T20:10:32.739Z"
             },
             {
               "$type": "Document",
@@ -64,7 +62,7 @@
               "RelativeDocumentMoniker": "T766-Checkin\\CheckinView.xaml.cs",
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\CheckinView.xaml.cs",
               "RelativeToolTip": "T766-Checkin\\CheckinView.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T20:11:21.722Z",
               "EditorCaption": ""
@@ -79,8 +77,7 @@
               "RelativeToolTip": "T766-Checkin\\WifiConnectView.xaml.cs",
               "ViewState": "AgIAAH4BAAAAAAAAAAAmwIkBAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T20:06:53.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T20:06:53.925Z"
             },
             {
               "$type": "Document",
@@ -91,8 +88,7 @@
               "ToolTip": "C:\\Users\\danwi\\source\\repos\\T766-Checkin\\T766-Checkin\\Views\\WifiConnectView.xaml",
               "RelativeToolTip": "T766-Checkin\\Views\\WifiConnectView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-01T20:13:23.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T20:13:23.238Z"
             }
           ]
         }

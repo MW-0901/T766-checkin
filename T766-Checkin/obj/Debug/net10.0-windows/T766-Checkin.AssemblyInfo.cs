@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T766-Checkin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754776219177ad6517fd03e7c044b4ed929c0b31")]
 [assembly: System.Reflection.AssemblyProductAttribute("T766-Checkin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T766-Checkin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
